@@ -1,0 +1,7 @@
+pipeline:
+  build:
+    image: java:openjdk-7
+    commands:
+     - git clone https://github.com/asdf-vm/asdf.git
+     - chmod +x asdf/asdf.sh
+     - asdf/asdf.sh plugin-test elasticsearch https://github.com/denisoster/asdf-elasticsearch.git
