@@ -1,4 +1,4 @@
-# asdf-elasticsearch [![Build Status](http://drone.osterdev.com/api/badges/denisoster/asdf-elasticsearch/status.svg)](http://drone.osterdev.com/denisoster/asdf-elasticsearch)
+# asdf-elasticsearch [![Build Status]
 
 elasticsearch plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
